@@ -3,6 +3,7 @@ Console menu-based program to parse uspto bulk database made for CMCI uses.
 Credit to (with changes and alterations): https://github.com/TamerKhraisha/uspto-patent-data-parser/tree/master?tab=readme-ov-file 
 
 **Python Version Requirement (at least): 3.10.11**
+*Currently only tested for XML4 so patents 2003-present*
 
 ## Execution Instructions (assuming downloaded all files from this repo - as well as in console in the correct directory):
 
